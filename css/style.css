@@ -1,0 +1,161 @@
+img{
+  width: 80%;
+  margin: 30px;
+  margin-bottom: 0;
+}
+.top_img{
+  margin-bottom: 0;
+}
+
+.top_content{
+  display: flex;
+  margin-bottom: 0;
+}
+
+.top_content_text{
+  margin-top: -500px;
+  font-size: 48px;
+}
+
+span{
+  color: aqua;
+  font-weight: bold;
+}
+
+.top_content_btn{
+  border-radius: 90px;
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin: -300px;
+  margin-left: -500px;
+}
+
+.top_content_btn_text{
+  text-align: center;
+  padding-top: 38px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.top_content_txt{
+  color: aqua;
+  font-size: 25px;
+  margin-top: -280px;
+  margin-left: 310px;
+}
+
+.span_txt{
+  color: pink;
+  font-size: 30px;
+}
+
+.top_botton{
+  background: pink;
+  border-radius: 90px;
+  width: 300px;
+  height: 80px;
+  margin-top: -180px;
+  margin-left: -350px;
+}
+
+.top_botton_txt{
+  color: white;
+  text-align: center;
+  padding: 28px;
+}
+
+
+h2{
+  text-align: center;
+  background-color: aqua;
+  width: 80%;
+  margin: auto;
+  height: 80px;
+  color: white;
+}
+
+.main_span{
+  font-size: 30px;
+  color: white;
+}
+
+.main_content{
+  display: flex;
+}
+
+.main_content_img{
+  width: 300px;
+  margin-left: 300px;
+}
+
+.main_content_text{
+  border: 3px solid aqua;
+  border-radius: 5px;
+  height: 200px;
+  margin: 120px 50px 0 0;
+}
+
+.svg_image{
+  width: 20px;
+}
+
+.svg_text{
+  display: flex;
+}
+
+.example{
+  border-bottom: 3px solid aqua;
+}
+
+.main_text{
+  width: 90%;
+  margin: 0 auto;
+  background: aqua;
+  height: 200px;
+
+}
+
+.main_text_pickup{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  padding-top: 40px;
+}
+
+.weight{
+  font-weight: bold;
+  color: white;
+}
+
+.pink{
+  color: pink;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.card{
+  position: relative;
+}
+
+.point{
+  position: absolute;
+  top:-10px;
+  left: 10px;
+  background: white;
+}
+
+.card_content{
+  border-radius: 5px;
+  border: 2px solid aqua;
+  padding: 15px;
+  margin: 20px;
+}
+
+.card_note{
+  margin: 10px;
+}
